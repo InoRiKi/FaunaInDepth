@@ -1,0 +1,16 @@
+{
+  "block.faunaindepth.brainbloom" : "Brainbloom",
+  "block.faunaindepth.brain_stem" : "Brain Stem",
+
+  "creativetab.faunaindepth.faunaindepth" : "FaunaInDepth",
+
+  "faunaindepth.configuration.title": "FaunaInDepth Configs",
+  "faunaindepth.configuration.section.faunaindepth.common.toml": "FaunaInDepth Configs",
+  "faunaindepth.configuration.section.faunaindepth.common.toml.title": "FaunaInDepth Configs",
+  "faunaindepth.configuration.items": "Item List",
+  "faunaindepth.configuration.logDirtBlock": "Log Dirt Block",
+  "faunaindepth.configuration.magicNumberIntroduction": "Magic Number Text",
+  "faunaindepth.configuration.magicNumber": "Magic Number"
+
+
+}

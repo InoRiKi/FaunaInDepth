@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end" : "faunaindepth:block/brain_stem_top",
+    "side": "faunaindepth:block/brain_stem"
+  }
+}
