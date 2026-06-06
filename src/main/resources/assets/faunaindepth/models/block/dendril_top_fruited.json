@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "texture": {
+    "cross": "dendril_top"
+  }
+}

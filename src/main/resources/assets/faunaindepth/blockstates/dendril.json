@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "half=lower,has_fruit=false": { "model": "faunaindepth:block/dendril_bottom" },
+    "half=lower,has_fruit=true":  { "model": "faunaindepth:block/dendril_bottom_fruited" },
+    "half=upper,has_fruit=false": { "model": "faunaindepth:block/dendril_top" },
+    "half=upper,has_fruit=true":  { "model": "faunaindepth:block/dendril_top_fruited" }
+  }
+}
